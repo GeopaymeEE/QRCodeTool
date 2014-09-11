@@ -15,11 +15,11 @@ QRCodeTool
 
 项目中用到的第三方类库
 ------------------
-[zxing](https://github.com/zxing/zxing)
+[zxing](https://github.com/zxing/zxing)<br />
     lib/zxing-core.jar
     lib/zxing-javase.jar
 
-[commons-codec](http://commons.apache.org/proper/commons-codec/)
+[commons-codec](http://commons.apache.org/proper/commons-codec/)<br />
     lib/commons-codec-1.9.jar
 
 其它
